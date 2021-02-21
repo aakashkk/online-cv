@@ -51,7 +51,7 @@ career-profile:
      I am a fun, friendly, and sharp IT person who is hungry and ready to grow. I have a wide variety of experience in 
      Information Systems that I learned from the University of Michigan-Dearborn and previous Co-Op/Internship experiences. 
 education:
-    - Degree: Bachelor of Business Administration W/ a Major in Information System Management 
+    - degree: Bachelor of Business Administration W/ a Major in Information System Management 
       university: University of Michigan - Dearborn
       time: 2014-2020
       
@@ -70,6 +70,33 @@ experiences:
           - Managed the upgrade of over 800 computers from Windows 7 to Windows 10
           - Worked with AD Manager+ to build user profiles, assign groups, unlock accounts
           - Handled different clients and different system simultaneously 
+          
+         - role: Information Technology Co-Op
+      time: 2019-2019
+      company: Yazaki
+      details: |
+          - Closed 90% of trouble tickets without escalation
+          - Maintained and supported systems, workstations, mobile devices, printers, and peripherals
+          - Praised for communicating effectively with both technical and nontechnical users
+          - Assigned folder, file, network access
+          
+    - role: Cyber Security & Audit Compliance Intern
+      time: 2018-2019
+      company: Federal-Mogul
+      details: |
+       - Monitored, assessed, and remediated daily cybersecurity events
+       - Deactivated and terminated user access and completed Periodic User Review
+       - Assisted with SAP CT and SOD reviews and deactivation and termination of user access
+       - Managed VPN licenses & replacement and activation across the company
+       
+- role: IT Intern
+      time: 2018-2019
+      company: Cooper-Standard
+      details: |
+       - Provided level 1 and 2 technical support for 500+ users
+       - Documented all issues and generated tickets detailing user issues
+       - Installed new laptop systems for users
+       - Assigned Microsoft Office licenses to users
           
 
 skills:
