@@ -12,34 +12,34 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    email: aakash5296@gmail.com
+    phone: (734)-377-0790
+    #website: blog.webjeda.com #do not add http://
+    linkedin: https://www.linkedin.com/in/aakash-krishana-5b3135143/
+    github: aakashkk
+    #telegram: # add your nickname without '@' sign
+    #gitlab:
+   # bitbucket:
+   # twitter: '@webjeda'
+   # stack-overflow: # Number/Username, e.g. 123456/alandoe
+   # codewars:
+   # goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Hindi
+        level: Moderate 
 
-      - idiom: Spanish
-        level: Professional
+   #   - idiom: Spanish
+   #     level: Professional
 
     interests:
-      - item: Climbing
+      - item: Video Games
         link:
 
-      - item: Snowboarding
+      - item: Sports
         link:
 
       - item: Cooking
@@ -55,28 +55,11 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor of Business Administration 
+      Degree: Information System Management 
+      university: University of Michigan - Dearborn
+      time: 2014-2020
+      
 experiences:
     - role: Lead Developer
       time: 2015 - Present
