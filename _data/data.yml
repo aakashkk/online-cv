@@ -57,22 +57,23 @@ education:
       
 experiences:
     - role: Junior IT Technician 
-      time: 2021 - Present
+      time: Janurary 2021 - Present
       company: Proactive Technology Management 
       details: |
           - Administering Windows Server networks, domains, roles and services.
           - Troublshooting and maintaning Active Directory 
           - Developing Solutions to customer probleming using the best technologies available
+          
     - role: IT Intern
-      time: 2019-2020
+      time: September 2019 - December 2020
       company: Daifuku
       details: |
           - Managed the upgrade of over 800 computers from Windows 7 to Windows 10
           - Worked with AD Manager+ to build user profiles, assign groups, unlock accounts
           - Handled different clients and different system simultaneously 
           
-         - role: Information Technology Co-Op
-      time: 2019-2019
+    - role: Information Technology Co-Op
+      time: March 2019 - September 2019
       company: Yazaki
       details: |
           - Closed 90% of trouble tickets without escalation
@@ -81,7 +82,7 @@ experiences:
           - Assigned folder, file, network access
           
     - role: Cyber Security & Audit Compliance Intern
-      time: 2018-2019
+      time: Augest 2018 - March 2019
       company: Federal-Mogul
       details: |
        - Monitored, assessed, and remediated daily cybersecurity events
@@ -90,7 +91,7 @@ experiences:
        - Managed VPN licenses & replacement and activation across the company
        
 - role: IT Intern
-      time: 2018-2019
+      time: Janurary 2018 - August 2019
       company: Cooper-Standard
       details: |
        - Provided level 1 and 2 technical support for 500+ users
