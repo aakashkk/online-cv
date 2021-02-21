@@ -8,14 +8,14 @@ sidebar:
 
     # Profile information
     name: Aakash Krishana
-    tagline: IT Remote Technician 
+    tagline: Junior IT Technician 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: aakash5296@gmail.com
     phone: (734)-377-0790
     #website: blog.webjeda.com #do not add http://
-    linkedin: https://www.linkedin.com/in/aakash-krishana-5b3135143/
+    linkedin: aakash-krishana-5b3135143
     github: aakashkk
     #telegram: # add your nickname without '@' sign
     #gitlab:
@@ -48,56 +48,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+     I am a fun, friendly, and sharp IT person who is hungry and ready to grow. I have a wide variety of experience in 
+     Information Systems that I learned from the University of Michigan-Dearborn and previous Co-Op/Internship experiences. 
 education:
-    - degree: Bachelor of Business Administration 
-      Degree: Information System Management 
+    - Degree: Bachelor of Business Administration - Information System Management 
       university: University of Michigan - Dearborn
       time: 2014-2020
       
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Junior IT Technician 
+      time: 2021 - Present
+      company: Proactive Technology Management 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Administering Windows Server networks, domains, roles and services.
+          - Troublshooting and maintaning Active Directory 
+          - Developing Solutions to customer probleming using the best technologies available
+    - role: IT Intern
+      time: 2019-2020
+      company: Daifuku
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Assisted and Managed the upgrade of over 800 computers from Windows 7 to Windows 10
+          - Worked with AD Manager+ to build user profiles, assign groups, unlock accounts
+          - Handled different clients and different system simultaneously 
+
 projects:
     title: Projects
     intro: >
@@ -151,23 +124,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Operating System (Windows XP - Windows 10)
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Office
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Adobe Suite
+        level: 90%
 
-      - name: Sketch & Photoshop
-        level: 60%
+    #  - name: HTML5 & CSS
+    #    level: 95%
+
+    #  - name: Ruby on Rails
+    #    level: 85%
+
+    #  - name: Sketch & Photoshop
+    #    level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Aakash K Krishana</a>
